@@ -15,10 +15,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+![image](https://user-images.githubusercontent.com/75978618/226476071-c09dd9e6-439e-434c-a7c4-114838b1bab0.png)
+
+![image](https://user-images.githubusercontent.com/75978618/226476118-96b55566-0b1f-43c7-bf84-fe230c5fcdb0.png)
+
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/results-summary-mike-W2x_3OZP1R
 - Live Site URL: https://mickaelrebeau.github.io/Results-Summary-Frontend-Mentor/
 
 ## My process
